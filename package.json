@@ -1,8 +1,8 @@
 {
-  "name": "popbill",
+  "name": "popbill-public",
   "version": "1.8.0",
   "description": "Popbill API SDK for node. see www.popbill.com",
-  "author": "Kim Seongjun <pallet027@gmail.com>",
+  "author": "hosy <hosy@nurigo.net>",
   "contributors": [
     {
       "name": "Kim Seongjun",
